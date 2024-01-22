@@ -8,11 +8,11 @@ CVIQ Database includes 524 compressed images generated from 16 original images. 
 ## Download
 Baidu Netdisk:
 ```
-Link:https://pan.baidu.com/s/1b3j5iO3jQWf2fZPAli9ozw  Password:b17u
+Link: https://pan.baidu.com/s/1b3j5iO3jQWf2fZPAli9ozw  Password: b17u
 ```
 Google Drive:
 ```
-Link:https://drive.google.com/open?id=12E-sDZOq0DfCtNNwdyer7azfLZNNva6N
+Link: https://drive.google.com/open?id=12E-sDZOq0DfCtNNwdyer7azfLZNNva6N
 ```
 The images with names from 1\*n to 11\*n are compressed by JPEG, with names from 12\*n to 22\*n are compressed by AVC, with names from 23\*n to 33\*n are compressed by HEVC, and with names 34\*n are original images.
 
