@@ -2,8 +2,7 @@
 
 ### About Error Map
 
-- An Effective Foveated 360° Image Assessment Based on Graph Convolution Network
-    - "https://ieeexplore.ieee.org/abstract/document/9878309"
+- [An Effective Foveated 360° Image Assessment Based on Graph Convolution Network](https://ieeexplore.ieee.org/abstract/document/9878309)
 
 ## Install
 
@@ -15,7 +14,7 @@
 
 ## Prepare Data
 
-- Download [database]: "https://drive.google.com/drive/folders/1dmJ8QwNekwM6QNYBg8LvZYW2k9SWRUpL?usp=sharing"
+- Download from google drive [[database]](https://drive.google.com/drive/folders/1dmJ8QwNekwM6QNYBg8LvZYW2k9SWRUpL?usp=sharing): 
     - "This includes a database helping understand how an error map works. "
 - Datasets are put in the folder ./Databases where we can find CVIQ and OIQA databases.
 - OIQA is not in images form instead it is in .pkl form considering of the 60 GB size of it in images form.
@@ -29,6 +28,7 @@
 
 - In some cases obtaining viewports of an image is necessary, so two ways of getting viewports are saved in the folder
   ./Viewports.
+  
 - Both ways are run in matlab and call for reading in the images. Given that the OIQA data are not provided in images
   form, the CVIQ may be more accessible to get viewports now. 
   
